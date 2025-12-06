@@ -1,3 +1,3 @@
-module github.com/acerna/hello
+module github.com/alexandercerna-go/hello
 
 go 1.25.4
