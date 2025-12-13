@@ -1,5 +1,4 @@
 package main
-package main
 
 import "testing"
 
@@ -11,9 +10,7 @@ func TestGreetWithEmptyString(t *testing.T) {
 	}
 }
 
-
-
-
-
-
-}	t.Log("Main function test passed")	// This is a simple test that verifies the main function structure	// Basic smoke test to ensure the program runs without panickingfunc TestMain(t *testing.T) {
+// TestMain is a basic smoke test to ensure the program runs without panicking
+func TestMain(t *testing.T) {
+	t.Log("Main function test passed")
+}
