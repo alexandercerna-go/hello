@@ -24,3 +24,8 @@ __debug_bin*
 
 # Snyk Security Extension - AI Rules (auto-generated)
 .github/instructions/snyk_rules.instructions.md
+
+# IntelliJ and VS Code
+.idea/
+.vscode/
+
